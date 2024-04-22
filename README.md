@@ -1,2 +1,2 @@
-# sharing
+# Mushrooms
 Mushrooms genre classification application
